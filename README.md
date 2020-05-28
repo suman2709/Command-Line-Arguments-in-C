@@ -3,3 +3,6 @@ Command line arguments are passed to the main() method. Here argc counts the num
 
 
 Q1.Write a program to find Perfect Number using Command Line Argument.
+
+
+Q2.Write a program to find Largest Integer among three integers using Command Line Argument.
